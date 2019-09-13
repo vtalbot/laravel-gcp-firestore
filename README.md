@@ -11,12 +11,15 @@ Laravel Database driver for Google Firestore.
 
 ## Implementation
 
-- [ ] Connection
-- [ ] Connector
-- [ ] Query Grammar
-- [ ] Query Processor
-- [ ] Query Builder
-- [ ] Schema Builder
+- [ ] `FirestoreConnection`
+- [ ] `Connectors/FirestoreConnector`
+- [ ] `Console/Indices/FreshCommand`
+- [ ] `Console/Indices/IndexCommand`
+- [ ] `Console/Indices/IndexMakeCommand`
+- [ ] `Query/Grammars/FirestoreGrammar`
+- [ ] `Query/Processors/FirestoreProcessor`
+- [ ] `Schema/FirestoreBuilder`
+- [ ] `Schema/Grammars/FirestoreGrammar`
 
 ## Install
 
